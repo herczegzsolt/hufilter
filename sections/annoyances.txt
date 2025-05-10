@@ -348,5 +348,4 @@ infostart.hu#?##sitemodal:-abp-has(.fb-button)
 ||*.hu/*eu_cookie_compliance.css$stylesheet
 ||*.hu/*wp-content/plugins/complianz-gdpr/*.js$script
 ||*.hu/*wp-content/plugins/complianz-gdpr/*.css$stylesheet
-||iccm.ingatlancdn.com/iccm-*.js$script
 ||cookielaw.org^$third-party  
